@@ -36,6 +36,14 @@ class ProductsOverview extends StatelessWidget {
       imageUrl:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
     ),
+    Product(
+      id: 'p5',
+      title: 'Helmet',
+      description: 'The safe ride.',
+      price: 89.99,
+      imageUrl:
+          'https://en.wikipedia.org/wiki/Helmet#/media/File:Sporthelme.jpg',
+    ),
   ];
 
   @override
