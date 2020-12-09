@@ -9,8 +9,8 @@ class Products with ChangeNotifier {
     return [...items];
   }
 
-  /*void addProduct() {
-    _items.add(value);
+  void addProduct() {
+    //_items.add(value);
     notifyListeners();
-  }*/
+  }
 }
