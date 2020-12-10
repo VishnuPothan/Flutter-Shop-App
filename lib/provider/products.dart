@@ -10,7 +10,7 @@ class Products with ChangeNotifier {
   }
 
   void addProduct() {
-    //_items.add(value);
-    notifyListeners();
+    /*//_items.add(value);
+    notifyListeners();*/
   }
 }
